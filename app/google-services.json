@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "820080044664",
+    "project_id": "postboxx-f716e",
+    "storage_bucket": "postboxx-f716e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820080044664:android:ece642609b1fe5d85edb8d",
+        "android_client_info": {
+          "package_name": "zvhir.dev.postboxx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820080044664-lt9glfflle4pavv2v3h8m5tqrrdat59p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANT80hL6gpqLSm7BZwg31DwDXWChQ-S4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820080044664-lt9glfflle4pavv2v3h8m5tqrrdat59p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
